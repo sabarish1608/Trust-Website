@@ -1,0 +1,18 @@
+.title{
+    margin-left: 10px;
+}
+.img{
+    width: 700px;
+}
+.button{
+    padding: 10px;
+    background-color: rgb(204, 28, 175);
+    border-radius: 7px;
+    border: 2px solid white;
+    color: white;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: rgb(252, 85, 243);
+    transition-duration: 0.5s;
+}
